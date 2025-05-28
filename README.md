@@ -32,20 +32,32 @@ This is a professional, real-world **multi-stock dashboard** built using **Pytho
 pip install -r requirements.txt
 streamlit run app.py
 
-📝 API Key Setup
+## 🔑 API Key Setup
 
-In app.py, replace:
-API_KEY = 'your_api_key_here'
-with your actual Twelve Data API Key.
+To run this dashboard, you'll need a free API key from [Twelve Data](https://twelvedata.com/).
 
-🛡 Legal Note
+1. Sign up at [https://twelvedata.com](https://twelvedata.com) and obtain your API key.
+2. In the `app.py` file, locate the following line:
 
-This app is for educational/demo purposes only.
-Data provided by Twelve Data API under free tier limits.
+   ```python
+   API_KEY = 'your_api_key_here'
+Replace 'your_api_key_here' with your actual API key:
 
-📬 Connect With Me
+---
+## 🛡 Legal Note
 
-Made by Dakshita 💙
+> This dashboard is intended for educational and demonstration purposes only.
+> Data is provided by the Twelve Data API under their free tier plan.
+> The developer is not responsible for any financial decisions made based on this dashboard
+
+## 📬 Connect With Me
+
+Built with 💙 by **Dakshita Vairagi**
+
+- 📧 Email: [dakshitavairagi72@gmail.com]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/dakshita-vairagi-bb8810340]
+- 💻 GitHub: [github.com/vairagidakshita](https://github.com/vairagidakshita)
+
 
 
 
