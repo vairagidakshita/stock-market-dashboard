@@ -56,7 +56,7 @@ Built with 💙 by **Dakshita Vairagi**
 
 - 📧 Email: [dakshitavairagi72@gmail.com]
 - 🌐 LinkedIn: [https://www.linkedin.com/in/dakshita-vairagi-bb8810340]
-- 💻 GitHub: [github.com/vairagidakshita](https://github.com/vairagidakshita)
+- 💻 GitHub: [https://github.com/vairagidakshita]
 
 
 
