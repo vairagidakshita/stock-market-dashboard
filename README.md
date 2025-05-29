@@ -12,7 +12,7 @@ This is a professional, real-world **multi-stock dashboard** built using **Pytho
 
 ### 🚀 Live Dashboard (Deployed on Streamlit)
 
-🔗 [Click Here to Try the App](https://your-streamlit-link-here)
+🔗 [Click Here to Try the App](https://stock-market-dashboard-ydtewblc2mvdzgb8stso97.streamlit.app/)
 
 ---
 
